@@ -21,12 +21,6 @@ Local machine paths in Cyberware were replaced with `C:/Modding/dmm/mods/Cyberwa
 
 This snapshot excludes game assets, registration-table payloads, compiled plugins, profiles, private logs and third-party Character Creator source. It is not a complete playable package. Do not remove runtime guards to force it to load.
 
-## CDAL beta interest
-
-Current integration uses build-specific addresses and checks. Tidebreaker uses MinHook detours and guarded function-table replacements. Shared IDs of interest include movement, animation, equipment, effects and cleanup. Neither project is ported to CDAL yet.
-
-Development is AI-assisted, with in-game testing and feedback by the author. Existing test source is included; publication checks are not a new gameplay acceptance result.
-
 ## Licensing
 
 Original Tidebreaker and Cyberware Companion project code in this snapshot is licensed under the [MIT License](LICENSE), copyright (c) 2026 Raebeees. Third-party code is excluded from this license grant: MinHook retains its included license and copyright notices in `tidebreaker/minhook/LICENSE.txt` and `cyberware/dependencies/minhook/LICENSE.txt` inside the source ZIP. Third-party mods and game assets remain subject to their respective terms.
