@@ -29,4 +29,4 @@ Development is AI-assisted, with in-game testing and feedback by the author. Exi
 
 ## Licensing
 
-MinHook retains its included license and notices. No new license is granted for the project code in this snapshot. Third-party mods and game assets remain subject to their respective terms.
+Original Tidebreaker and Cyberware Companion project code in this snapshot is licensed under the [MIT License](LICENSE), copyright (c) 2026 Raebeees. Third-party code is excluded from this license grant: MinHook retains its included license and copyright notices in `tidebreaker/minhook/LICENSE.txt` and `cyberware/dependencies/minhook/LICENSE.txt` inside the source ZIP. Third-party mods and game assets remain subject to their respective terms.
